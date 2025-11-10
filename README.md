@@ -1,4 +1,4 @@
-#22RP03084_PHP_SMS
+#22RP03084_PHP_SMS L3 SOD
 
 This is a Student Management System (SMS) built using PHP and MySQL. It includes functionality for user authentication, student management, and CRUD operations. The application uses a MySQL database with two tables: user and student.
 
